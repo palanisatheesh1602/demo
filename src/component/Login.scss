@@ -1,0 +1,77 @@
+.loginpage
+{
+    display: flex;
+    text-align: center;
+    position: relative;
+
+   .curve
+   {
+       border-radius: 0px 17em 19em 18em;
+       background-color: rgb(107, 80, 228);
+       //background-image: linear-gradient( rgb(62, 65, 245) 0 10%, rgb(14, 14, 233) 90% );
+       border-right: 2rem solid #5f8fe9;
+       width:50%;
+       height: 40rem;
+    img
+    {
+       padding-top: 10%;
+       float: left;
+       height: 35%;
+       width: 35%;
+    }
+    .loginform
+    {
+       box-shadow: rgba(73, 44, 44, 0.26) 1.95px 1.95px 1.95px;
+       background-color: rgba(255, 255, 255, 0.877);
+       width: 140vh;
+       height: 75vh;
+       margin-top: 6rem;
+       margin-left: 20rem;
+       padding-left: 10%;
+    h1
+    {
+       //padding-left: 40%;
+       color: rgb(100, 98, 98); 
+    }
+    h5
+    {
+      //padding-left: 40%;
+      color: rgb(100, 98, 98);
+    }
+    .label
+    {
+       color: rgb(100, 98, 98);
+    }
+    .username
+    {
+       //padding-right: 34%;
+       color: rgb(100, 98, 98);
+    }
+    .input
+    {
+       width: 20rem;
+       height: 3rem;
+       border-radius: 30px;
+       border: 1px solid rgb(100, 98, 98);
+    }
+    .password
+    {
+       //padding-right: 30%;
+       color: rgb(100, 98, 98);
+    }
+    .loginbtn
+    {
+       color: white;
+       background-color: rgb(107, 80, 228);
+       border-radius: 30px;
+       border: 1px solid rgb(100, 98, 98);
+       width: 10rem;
+       height: 3rem;
+    }
+}
+}
+}
+
+
+
+
